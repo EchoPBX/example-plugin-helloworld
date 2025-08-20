@@ -1,0 +1,7 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "entrypoint": "server/hello.so",
+  "api": "v1",
+  "capabilities": ["events"]
+}
